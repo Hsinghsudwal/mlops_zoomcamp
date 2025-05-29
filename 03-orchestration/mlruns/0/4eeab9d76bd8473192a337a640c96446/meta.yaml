@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudwa/Desktop/mlops_zoomcamp/03-orchestration/mlruns/0/4eeab9d76bd8473192a337a640c96446/artifacts
+end_time: 1748552065299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eeab9d76bd8473192a337a640c96446
+run_name: entertaining-fox-503
+run_uuid: 4eeab9d76bd8473192a337a640c96446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748552022250
+status: 3
+tags: []
+user_id: sudwalh

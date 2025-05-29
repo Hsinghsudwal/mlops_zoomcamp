@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudwa/Desktop/mlops_zoomcamp/03-orchestration/mlruns/0/a5b9c0485ea649cea4fbb8547e8ca908/artifacts
+end_time: 1748552896044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5b9c0485ea649cea4fbb8547e8ca908
+run_name: invincible-frog-876
+run_uuid: a5b9c0485ea649cea4fbb8547e8ca908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748552866881
+status: 3
+tags: []
+user_id: sudwalh
