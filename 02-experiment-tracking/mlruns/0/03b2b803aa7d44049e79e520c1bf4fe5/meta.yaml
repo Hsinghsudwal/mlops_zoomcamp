@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudwa/Desktop/mlops_zoomcamp/02-experiment-tracking/mlruns/0/03b2b803aa7d44049e79e520c1bf4fe5/artifacts
+end_time: 1748545845494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03b2b803aa7d44049e79e520c1bf4fe5
+run_name: popular-tern-868
+run_uuid: 03b2b803aa7d44049e79e520c1bf4fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748545738805
+status: 3
+tags: []
+user_id: sudwalh
